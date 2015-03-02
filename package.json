@@ -1,0 +1,29 @@
+{
+  "name": "webworker-loader",
+  "version": "0.1.0",
+  "description": "web worker loader for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bjyoungblood/webworker-loader"
+  },
+  "keywords": [
+    "webpack",
+    "worker"
+  ],
+  "author": "Ben Youngblood",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bjyoungblood/webworker-loader/issues"
+  },
+  "homepage": "https://github.com/bjyoungblood/webworker-loader",
+  "peerDependencies": {
+    "webpack": ">=0.9 <2"
+  },
+  "dependencies": {
+    "loader-utils": "0.2.x"
+  }
+}
